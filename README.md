@@ -1,2 +1,4 @@
 # hello-world
-Firs reposity
+First reposity
+
+Hi, i love lift.
